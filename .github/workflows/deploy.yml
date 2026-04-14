@@ -35,7 +35,7 @@ on:
 env:
   AWS_REGION: us-east-1
   COMPETITION_NAME: "LKS Cloud Computing"
-  OWNER_EMAIL: "handi@seamolec.org"  # ⬅️ GANTI DENGAN EMAIL ANDA
+  OWNER_EMAIL: "dimastriansah63@gmai.com"  # ⬅️ GANTI DENGAN EMAIL ANDA
 
 jobs:
   # ========== EMAIL TRACKING & VALIDATION ==========
